@@ -56,12 +56,6 @@ This project brings a **cloud-based conversational AI agent**—your virtual hea
 
 ---
 
-## 📸 Screenshots
-
-Find real chat outputs in `/samples/`.
-
----
-
 ## 🙌 Contribute or Explore!
 
 - **Questions? Ideas?** File an issue or start a discussion.
